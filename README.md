@@ -1,6 +1,3 @@
-Certainly! Here’s the formatted `README.md` file for your GitHub repository:
-
-```markdown
 # 📝 **Notes App**
 
 This project is a simple **Notes Application** that utilizes a **Django backend** and a **Flutter frontend**. The application allows users to perform **CRUD (Create, Read, Update, Delete)** operations on notes. Users can easily manage their notes with a seamless experience provided by the **Flutter** mobile interface.
@@ -25,7 +22,7 @@ Follow these instructions to set up both the **Django backend** and the **Flutte
 1. **Install Dependencies**: Ensure **Python**, **pip**, **Django**, and `django-cors-headers` are installed.
    ```bash
    pip install django django-cors-headers
-   ```
+
 2. **Create Django Project**: Initialize a new Django project and create a Django app for managing notes.
    ```bash
    django-admin startproject notes_backend
